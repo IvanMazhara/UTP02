@@ -1,4 +1,5 @@
-//TODO: we need to add missing classes! 
+//TODO: we need to the add missing classes!
+//OK, I will 'Adder' and s31524 will add 'Substractor'.
 
 public class Main {
     public static void main(String[] args) {
